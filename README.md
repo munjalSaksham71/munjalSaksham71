@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Saksham.
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Mern stack
+- 👋 Hi, I’m Saksham Munjal.
+- 👀 @neoGcamp 2022
+- 🌱 ReactJS Developer
 
 <!---
 munjalSaksham71/munjalSaksham71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
